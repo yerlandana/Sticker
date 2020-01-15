@@ -1,4 +1,4 @@
-## EngLearn - is an app for creating your own stickers to learn Enlish words. 
+## EngLearn  is an app for creating your own stickers to learn English words. 
 
 ![onboarding](/photo/onboarding2.jpg)            ![onboarding1](/photo/onboarding3.jpg)
 
@@ -15,6 +15,6 @@
 
 ![photo2](/photo/add1.jpg)
 
-4. Play swiing games with words! Correct ones for right, Wrong ones for left
+4. Play swiping games with words! Swipe correct words for right, wrong words for left
 
 ![photo4](/photo/game.jpg)
