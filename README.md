@@ -1,6 +1,6 @@
 ## EngLearn  is an app for creating your own stickers to learn English words. 
 
-![onboarding](/photo/onboarding2.jpg)            ![onboarding1](/photo/onboarding3.jpg)
+![onboarding](/photo/onboarding2.jpg =250px)            ![onboarding1](/photo/onboarding3.jpg)
 
 ### How to do it?
 1. Create a sticker and set a deadline for futher notifications
